@@ -67,6 +67,7 @@ Wanna make it cooler?
 * Export to CSV?
 * GUI using Tkinter?
 * Detect connected network only?
+* Update this code to be run on Mac OS
 
 Let’s go. Fork ⭐ it, submit a pull request, or just vibe with it.
 Let’s keep learning, breaking, and building together 🚀
@@ -77,15 +78,3 @@ Let’s keep learning, breaking, and building together 🚀
 
 Made with late-night thoughts, soft terminal glow, and a sprinkle of that classic Vaish energy.
 Thanks for checking it out 💙
-
-```
-
----
-
-### 🌟 Next Steps
-Once you push this to GitHub:
-- It'll look beautifully sectioned
-- Emojis will render natively
-- The code blocks and folder tree will be clean and readable
-
----
