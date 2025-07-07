@@ -44,10 +44,8 @@ No GUI. No fuss. Just raw SSIDs and their secrets, printed directly to your term
 
 ## 📂 Folder Structure
 
+![image](https://github.com/user-attachments/assets/b37c6f6b-db08-4592-a51e-f8277b5183b1)
 
-wifi_password_viewer/
-├── wifi_passwords.py   # 🔐 Main script
-└── README.md           # 📄 You're reading it
 ---
 
 ## 🧠 What I Learned
