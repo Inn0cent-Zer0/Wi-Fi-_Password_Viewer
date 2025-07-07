@@ -71,10 +71,3 @@ Wanna make it cooler?
 
 Let’s go. Fork ⭐ it, submit a pull request, or just vibe with it.
 Let’s keep learning, breaking, and building together 🚀
-
----
-
-## 🍵 Closing Notes
-
-Made with late-night thoughts, soft terminal glow, and a sprinkle of that classic Vaish energy.
-Thanks for checking it out 💙
